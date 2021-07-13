@@ -1,9 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **sheersho/sheersho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi! I'm Sheersho (sheer-show). Welcome to my Github Profile 👋
+Hi! I'm Sheersho (sheer-show). Welcome to my Github Profile 👋
 
 
 <a href="https://github.com/sheersho">
@@ -21,14 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about all things modern JS - Type-safety, Frameworks/Libraries, Meta-frameworks/SSGs, Server-side Runtimes, Tooling + DBs/DBs-as-service/cloud/Querying layers, GraphQL, etc.
 - 😄 Pronouns: He/Him
 
-
-<!--
-**one-aalam/one-aalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Sucker for good content
 
 
 -->
