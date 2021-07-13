@@ -36,13 +36,6 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
 &nbsp;
-<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
-  <img
-    width="24"
-    alt="Follow me on Medium"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
-  /></a>
-&nbsp;
 <a href="https://dev.to/sheersho" title="Follow me on DevTo">
   <img
     width="24"
