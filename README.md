@@ -1,6 +1,3 @@
-
-
-
 **<h3>Hi! I'm Sheersho Pramanik (sheer-show). Welcome to my Github Profile 👋</h3>**
 
 <a href="https://github.com/sheersho">
