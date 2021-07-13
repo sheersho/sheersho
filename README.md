@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/sheersho.sheersho/readme)
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content from cell 1 | Content from cell 2 | Content from Cell 3
+Content in the first column | Content in the second column | Content in third column
