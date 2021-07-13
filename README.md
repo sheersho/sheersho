@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/sheersho.sheersho/readme)
 
 Institution | Educaction | Result | Passed Out
------------- | ------------- | ------------ | ------------ 
-JIIT Noida | B.Tech Computer Science | 6.01 CGPA | 2019
-DAVPS GGN Sector 14 | Higher Secondary | 91.4% CBSE | 2015
+-------------------------------- | ------------- | ------------ | ------------ 
+Jaypee Institute of Information Technology, Noida | B.Tech Computer Science | 6.01 CGPA | 2019
+DAV Public School Sector 14, Gurgaon | Higher Secondary | 91.4% CBSE | 2015
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
