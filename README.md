@@ -13,7 +13,7 @@ I'm a Javascript Architect/Lead with over a decade of experience and you've stum
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Enterprise Projects with Angular since last few years
-- 📝 I write stuff at [aalam.in](https://aalam.in)
+- 📝 I write stuff at [sheersho.github.io](https://sheersho.github.io)
 - 🌱 I’m currently learning/exploring Rust, Golang besides all the latest and great things happening in the Front-end/Javascript ecosystem.
 - 💬 Ask me about all things modern JS - Type-safety, Frameworks/Libraries, Meta-frameworks/SSGs, Server-side Runtimes, Tooling + DBs/DBs-as-service/cloud/Querying layers, GraphQL, etc.
 - 😄 Pronouns: He/Him
