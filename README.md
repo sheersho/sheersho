@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning/exploring Rust, Golang besides all the latest and great things happening in the Front-end/Javascript ecosystem.
 - 💬 Ask me about all things modern JS - Type-safety, Frameworks/Libraries, Meta-frameworks/SSGs, Server-side Runtimes, Tooling + DBs/DBs-as-service/cloud/Querying layers, GraphQL, etc.
 - 😄 Pronouns: He/Him
-
-
-
+- 
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/sheersho.sheersho/readme)
+
+Institution | Educaction | Result | Passed Out
+------------ | ------------- | ------------ | ------------ 
+JIIT Noida | B.Tech Computer Science | 6.01 CGPA | 2019
+DAVPS GGN Sector 14 | Higher Secondary | 91.4% CBSE | 2015
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
@@ -49,9 +52,4 @@ Here are some ideas to get you started:
 <br/>
 
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sheersho/sheersho/blob/main/github-contribution-grid-snake.svg)
 
-Institution | Educaction | Result | Passed Out
------------- | ------------- | ------------ | ------------ 
-JIIT Noida | B.Tech Computer Science | 6.01 CGPA | 2019
-DAVPS GGN Sector 14 | 12th Grade | 91.4% CBSE | 2015
