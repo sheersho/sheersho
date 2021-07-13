@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sheersho/sheersho/blob/main/github-contribution-grid-snake.svg)
 
 Institution | Educaction | Result | Passed Out
------------- | ------------- | ------------
+------------ | ------------- | ------------ | ------------ 
 JIIT Noida | B.Tech Computer Science | 6.01 CGPA | 2019
 DAVPS GGN Sector 14 | 12th Grade | 91.4% CBSE | 2015
