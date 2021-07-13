@@ -19,3 +19,33 @@ Here are some ideas to get you started:
 
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/sheersho.sheersho/readme)
+
+### Getting in touch
+
+<a href="https://twitter.com/sheersho" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sheersho/" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+&nbsp;
+<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
+  <img
+    width="24"
+    alt="Follow me on Medium"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
+  /></a>
+&nbsp;
+<a href="https://dev.to/sheersho" title="Follow me on DevTo">
+  <img
+    width="24"
+    alt="Follow me on DevTo"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
+  /></a>
