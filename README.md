@@ -1,9 +1,6 @@
 
 
-<!--
-**sheersho/sheersho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi! I'm Sheersho (sheer-show). Welcome to my Github Profile 👋
 
 
 <a href="https://github.com/sheersho">
@@ -23,5 +20,5 @@ Here are some ideas to get you started:
 
 
 
--->
+
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/sheersho.sheersho/readme)
