@@ -49,24 +49,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-
-**🐱 My Github Data** 
-
-> 🏆 50+ Contributions in the Year 2021
- > 
-> 📦 1.3 GB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 Cooperative Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-
-💻 Operating System: 
-Windows                  63 hrs 5 mins       █████████████████████████   100.0%
-
- Last Updated on 13/07/2021
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sheersho/sheersho/blob/main/github-contribution-grid-snake.svg)
 
 First Header | Second Header | Third Header
 ------------ | ------------- | ------------
