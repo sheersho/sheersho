@@ -5,8 +5,7 @@
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheersho&theme=dark"/>
 </a>
 
-I'm a Developer with over 2 years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
-
+I'm Sheersho. I work as a full-time software engineer. In my spare time I do open-sourcing (normally it is about 1-2 hours in the morning before the work). Most of my open-source projects below 👇🏻 are focused on one thing - to help people learn 📚. You may use these projects to learn about algorithms in JavaScript and get prepared for technical interviews, or to learn Python syntax and start experimenting with machine learning algorithms and math behind them, etc. I also write articles about life, web-development and machine learning.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Enterprise Projects with React since the last year.
