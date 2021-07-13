@@ -48,17 +48,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-</a>
-
-<br>
-<br>
 
 
 **🐱 My Github Data** 
